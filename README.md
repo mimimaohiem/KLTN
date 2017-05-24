@@ -6,7 +6,7 @@
 
 - RDRPOSTagger achieves a very competitive accuracy in comparison to the state-of-the-art results. See experimental results including performance speed and tagging accuracy for 13 languages in our *AI Communications* article.
 
-- RDRPOSTagger supports the pre-trained POS and morphological tagging models for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese.  Additionally, RDRPOSTagger supports the pre-trained Universal POS tagging models for 40 languages.
+- RDRPOSTagger supports the pre-trained POS and morphological tagging models for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese.  In addition, RDRPOSTagger supports the pre-trained universal POS tagging models for 40+ languages.
 
 The general architecture and experimental results of RDRPOSTagger can be found in our following papers:
 
@@ -15,8 +15,6 @@ The general architecture and experimental results of RDRPOSTagger can be found i
 - Dat Quoc Nguyen, Dai Quoc Nguyen, Dang Duc Pham and Son Bao Pham. [A Robust Transformation-Based Learning Approach Using Ripple Down Rules for Part-Of-Speech Tagging](http://content.iospress.com/articles/ai-communications/aic698). *AI Communications* (AICom), vol. 29, no. 3, pp. 409-422, 2016. [[.PDF]](http://arxiv.org/pdf/1412.4021.pdf) [[.bib]](http://rdrpostagger.sourceforge.net/AICom.bib)
 
 **Please cite** either the EACL or the AICom paper whenever RDRPOSTagger is used to produce published results or incorporated into other software.
-
-RDRPOSTagger is also available to download (10MB .zip file including all pre-trained models) at: [https://sourceforge.net/projects/rdrpostagger/files/RDRPOSTagger_v1.2.3.zip](https://sourceforge.net/projects/rdrpostagger/files/RDRPOSTagger_v1.2.3.zip)
 
 **Find more information about RDRPOSTagger at its website:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
 
