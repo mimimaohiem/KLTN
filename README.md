@@ -6,7 +6,9 @@
 
 - RDRPOSTagger achieves a very competitive accuracy in comparison to the state-of-the-art results. See experimental results including performance speed and tagging accuracy for 13 languages in our *AI Communications* article.
 
-- RDRPOSTagger supports the pre-trained POS and morphological tagging models for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese.  In addition, RDRPOSTagger supports the pre-trained universal POS tagging models for 40+ languages.
+- RDRPOSTagger supports pre-trained models for fine-grained POS and morphological tagging  for Bulgarian, Czech, Dutch, English, French, German, Hindi, Italian, Portuguese, Spanish, Swedish, Thai and Vietnamese.  
+
+- RDRPOSTagger also supports pre-trained universal POS tagging models for 40+ languages. These models are learned using training data from the Universal Dependencies (UD) v2.0. Universal POS tagging accuracies on UD v2.0 test sets are [HERE](https://github.com/datquocnguyen/RDRPOSTagger/blob/master/Models/UniPOS/Readme.md).
 
 The general architecture and experimental results of RDRPOSTagger can be found in our following papers:
 
@@ -18,4 +20,4 @@ The general architecture and experimental results of RDRPOSTagger can be found i
 
 **Find more information about RDRPOSTagger at its website:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
 
-
+In addition, you might find my new toolkit [jPTDP](https://github.com/datquocnguyen/jPTDP) interesting: [jPTDP - A Novel Neural Network Model for Joint POS Tagging and Dependency Parsing](https://github.com/datquocnguyen/jPTDP). jPTDP also supports pre-trained models for 40+ languages from UD v2.0. Universal POS tagging accuracies of jPTDP on UD v2.0 test sets  are [HERE](https://github.com/datquocnguyen/jPTDP/blob/master/UDv2.0_results.txt).
