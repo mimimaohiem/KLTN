@@ -97,10 +97,10 @@ public class Utils
 			String value = getConcreteValue(rule);
 
 			if (key.equals("prevWord2")) {
-				condition.context[0] = value;
+				condition.context[4] = value;
 			}
 			else if (key.equals("prevTag2")) {
-				condition.context[1] = value;
+				condition.context[5] = value;
 			}
 			else if (key.equals("prevWord1")) {
 				condition.context[2] = value;
@@ -109,10 +109,10 @@ public class Utils
 				condition.context[3] = value;
 			}
 			else if (key.equals("word")) {
-				condition.context[4] = value;
+				condition.context[1] = value;
 			}
 			else if (key.equals("tag")) {
-				condition.context[5] = value;
+				condition.context[0] = value;
 			}
 			else if (key.equals("nextWord1")) {
 				condition.context[6] = value;
@@ -145,8 +145,8 @@ public class Utils
 		FWObject object = new FWObject(true);
 
 		if (index > 1) {
-			object.context[0] = wordtags.get(index - 2).word;
-			object.context[1] = wordtags.get(index - 2).tag;
+			object.context[4] = wordtags.get(index - 2).word;
+			object.context[5] = wordtags.get(index - 2).tag;
 		}
 
 		if (index > 0) {
@@ -157,8 +157,8 @@ public class Utils
 		String currentWord = wordtags.get(index).word;
 		String currentTag = wordtags.get(index).tag;
 
-		object.context[4] = currentWord;
-		object.context[5] = currentTag;
+		object.context[1] = currentWord;
+		object.context[0] = currentTag;
 
 		int numChars = currentWord.length();
 		if (numChars >= 4) {
