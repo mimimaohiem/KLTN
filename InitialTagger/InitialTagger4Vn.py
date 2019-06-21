@@ -4,8 +4,8 @@ import re
 
 def isAbbre(word):
 
-    word = unicode(word, "utf-8")
-    for i in xrange(len(word)):
+    #word = unicode(word, "utf-8")
+    for i in range(len(word)):
         if isVnLowerChar(word[i]) or word[i] == "_":
             return False
     return True
@@ -24,7 +24,7 @@ def isVnUpperChar(char):
     return False;
 
 def isVnProperNoun(word):
-    word = unicode(word, "utf-8")
+    #word = unicode(word, "utf-8")
     if (isVnUpperChar(word[0])):
         if word.count("_") >= 4:
             return True
@@ -46,8 +46,8 @@ def initializeVnSentence(FREQDICT, sentence):
             continue
         
         tag = ''
-        decodedW = word.decode("utf-8")
-        lowerW = decodedW.lower().encode("utf-8")
+        decodedW = word
+        lowerW = decodedW.lower()
         if word in FREQDICT:
             tag = FREQDICT[word]
         elif lowerW in FREQDICT:
@@ -65,12 +65,12 @@ def initializeVnSentence(FREQDICT, sentence):
                     suffixL2 = suffixL3 = suffixL4 = suffixL5 = None
                     wLength = len(decodedW)
                     if wLength >= 4:
-                        suffixL3 = ".*" + decodedW[-3:].encode("utf-8")
-                        suffixL2 = ".*" + decodedW[-2:].encode("utf-8")
+                        suffixL3 = ".*" + decodedW[-3:]
+                        suffixL2 = ".*" + decodedW[-2:]
                     if wLength >= 5:
-                        suffixL4 = ".*" + decodedW[-4:].encode("utf-8")
+                        suffixL4 = ".*" + decodedW[-4:]
                     if wLength >= 6:
-                        suffixL5 = ".*" + decodedW[-5:].encode("utf-8")
+                        suffixL5 = ".*" + decodedW[-5:]
                     
                     if suffixL5 in FREQDICT:
                         tag = FREQDICT[suffixL5]

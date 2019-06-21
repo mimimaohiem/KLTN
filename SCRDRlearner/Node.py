@@ -56,7 +56,7 @@ class Node:
         fatherNode = self.findRealFather()
         for object in fatherNode.cornerstoneCases:
             if node.satisfied(object):
-                print "The new rule fires the cornerstone cases of its father node!!!"
+                print("The new rule fires the cornerstone cases of its father node!!!")
                 self.findRealFather().cornerstoneCases.remove(object)
         self.elseChild = node
         return True
@@ -64,7 +64,7 @@ class Node:
     def addExceptChild(self, node):
         for object in self.cornerstoneCases:
             if node.satisfied(object):
-                print "The new rule fires the cornerstone cases of its father node!!!"
+                print("The new rule fires the cornerstone cases of its father node!!!")
                 self.cornerstoneCases.remove(object)
         self.exceptChild = node
         return True

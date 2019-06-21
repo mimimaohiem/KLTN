@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-from Node import Node
-from Object import getObjectDictionary
-from SCRDRTree import SCRDRTree
+from .Node import Node
+from .Object import getObjectDictionary
+from .SCRDRTree import SCRDRTree
 
 #Generate concrete rules based on input object of 5-word window context object
 def generateRules(object):  
@@ -259,7 +259,7 @@ class SCRDRTreeLearner(SCRDRTree):
                         
         currentNode = self.root
         for initializedTag in objects:
-            print "\n===> Building exception rules for tag %s" % initializedTag
+            print("\n===> Building exception rules for tag %s" % initializedTag)
             correctCounts = {}
             for object in objects[initializedTag][initializedTag]:
                 rules = generateRules(object)

@@ -16,10 +16,12 @@ The general architecture and experimental results of RDRPOSTagger can be found i
 
 - Dat Quoc Nguyen, Dai Quoc Nguyen, Dang Duc Pham and Son Bao Pham. [A Robust Transformation-Based Learning Approach Using Ripple Down Rules for Part-Of-Speech Tagging](http://content.iospress.com/articles/ai-communications/aic698). *AI Communications* (AICom), vol. 29, no. 3, pp. 409-422, 2016. [[.PDF]](http://arxiv.org/pdf/1412.4021.pdf) [[.bib]](http://rdrpostagger.sourceforge.net/AICom.bib)
 
-**Please cite** either the EACL or the AICom paper whenever RDRPOSTagger is used to produce published results or incorporated into other software.
+**Please CITE** either the EACL or the AICom paper whenever RDRPOSTagger is used to produce published results or incorporated into other software.
 
-**Current release v1.2.4 is available to download (11MB .zip file including all pre-trained models) at:** [https://github.com/datquocnguyen/RDRPOSTagger/archive/master.zip](https://github.com/datquocnguyen/RDRPOSTagger/archive/master.zip)
+**Current release is available to download (11MB .zip file including all pre-trained models) at:** [https://github.com/datquocnguyen/RDRPOSTagger/archive/master.zip](https://github.com/datquocnguyen/RDRPOSTagger/archive/master.zip)
 
-**Find more information about RDRPOSTagger at its website:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
+Users can also find the last version with Python 2.7 support at: [https://github.com/datquocnguyen/RDRPOSTagger/tree/python2.7](https://github.com/datquocnguyen/RDRPOSTagger/tree/python2.7)
+
+**Find more information about RDRPOSTagger at:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
 
 In addition, you might want to try my new toolkit [jPTDP](https://github.com/datquocnguyen/jPTDP) for joint POS tagging and dependency parsing. jPTDP also provides pre-trained models for 40+ languages from UD treebanks.

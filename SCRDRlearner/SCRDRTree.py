@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from Node import Node
-from Object import FWObject
+from .Node import Node 
+from .Object import FWObject 
 
 class SCRDRTree:
     """
@@ -39,7 +39,7 @@ class SCRDRTree:
         rulesFile = open(rulesFilePath, "r")
         lines = rulesFile.readlines()
         
-        for i in xrange(1, len(lines)):
+        for i in range(1, len(lines)):
             line = lines[i]
             depth = 0           
             for c in line:
@@ -183,7 +183,7 @@ def getCondition(strCondition):
             condition.context[11] = value
         elif key == "suffixL4":
             condition.context[12] = value
-    for i in xrange(13):
+    for i in range(13):
         if condition.context[i] is not None:
             condition.notNoneIds.append(i)        
     return condition
