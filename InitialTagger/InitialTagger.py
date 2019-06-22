@@ -12,6 +12,8 @@ def initializeSentence(FREQDICT, sentence):
                 taggedSen.append("''/" + FREQDICT["''"])
             elif "." in FREQDICT:
                 taggedSen.append("''/" + FREQDICT["."])
+            elif "," in FREQDICT:
+                taggedSen.append("''/" + FREQDICT[","])
             else:
                 print("\n'' is not in the dictionary \nManually add '' with a possible POS tag into the .DICT file!")
                 taggedSen.append("''/" + FREQDICT["''"])   

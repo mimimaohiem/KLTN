@@ -32,6 +32,9 @@ public class InitialTagger
 				}
 				else if (DICT.containsKey(".")) { 
 					wordtags.add(new WordTag("''", DICT.get(".")));
+				}
+				else if (DICT.containsKey(",")) { 
+					wordtags.add(new WordTag("''", DICT.get(",")));
 				} else {
 					System.out.println("'' is not in the dictionary \nManually add '' with a possible POS tag into the .DICT file!");
 					return null;
