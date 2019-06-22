@@ -38,7 +38,9 @@ def createLexicon(corpusFilePath, fullLexicon):
         for pair in pairs:
             word, tag = getWordTag(pair)
             if (len(word) >= (len(pair) - 1)) or (len(tag) >= (len(pair) - 1)):
-                print("Incorrectly formatted " + str(i+1) + "th sentence at: " + pair)
+                if fullLexicon == 'full':
+                    print("ERROR: The %sth sentence is incorrectly formatted!" % str(i+1))
+                    #print(pair)
             else:
                 add2WordTagFreqDict(word, tag, wordTagCounter)
     

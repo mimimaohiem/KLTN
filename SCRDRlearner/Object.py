@@ -41,6 +41,8 @@ def getWordTag(wordTag):
     if wordTag == "///":
         return "/", "/"
     index = wordTag.rfind("/")
+    if index == -1:
+        return None, None
     word = wordTag[:index].strip()
     tag = wordTag[index + 1:].strip()
     return word, tag
@@ -98,7 +100,9 @@ def getObjectDictionary(initializedCorpus, goldStandardCorpus):
             goldWord, correctTag = getWordTag(goldWordTags[k])
             
             if initWord != goldWord:
-                print("\nERROR ==> Raw texts extracted from the gold standard corpus and the initialized corpus are not the same!")
+                print("\nERROR (Raw texts are mismatched || Some sentence is incorrectly formatted):")
+                print(str(i+1) + "th initialized sentence:   " + " ".join(initWordTags))
+                print(str(i+1) + "th gold standard sentence: " + " ".join(goldWordTags))
                 return None
             
             if initTag not in objects.keys():

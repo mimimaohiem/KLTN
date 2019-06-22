@@ -4,6 +4,8 @@ def getWordTag(wordTag):
     if wordTag == "///":
         return "/", "/"
     index = wordTag.rfind("/")
+    if index == -1:
+        return wordTag, None
     word = wordTag[:index].strip()
     tag = wordTag[index + 1:].strip()
     return word, tag
