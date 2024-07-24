@@ -1,0 +1,197 @@
+mua/V cá/Item 20k/Money siêu_thị/Place ./.
+mua/V bột_giặt/Item 50k/Money BigC/Place ./.
+mua/V táo/Item 30k/Money chợ/Place ./.
+mua/V kem_đánh_răng/Item 25k/Money Guardian/Place ./.
+mua/V sách/Item 75k/Money Nhà_Sách_Tân_Định/Place ./.
+mua/V hoa/Item 60k/Money cửa_hàng_hoa/Place ./.
+mua/V bánh_snack/Item 15k/Money Circle_K/Place ./.
+mua/V nước_ngọt/Item 10k/Money tạp_hóa/Place ./.
+mua/V cà_phê/Item 50k/Money Highlands_Coffee/Place ./.
+mua/V áo_phông/Item 100k/Money Uniqlo/Place ./.
+mua/V gạo/Item 200k/Money siêu_thị_Coopmart/Place ./.
+mua/V xà_phòng/Item 35k/Money siêu_thị_Metro/Place ./.
+mua/V bia/Item 90k/Money quán_bar/Place ./.
+mua/V khăn_giấy/Item 20k/Money Vinmart/Place ./.
+mua/V mì_tôm/Item 25k/Money siêu_thị_Lotte/Place ./.
+mua/V thịt_lợn/Item 100k/Money chợ_truyền_thống/Place ./.
+mua/V trứng/Item 30k/Money siêu_thị_Aeon/Place ./.
+mua/V giày/Item 250k/Money cửa_hàng_giày_Adidas/Place ./.
+mua/V thuốc_lá/Item 22k/Money tạp_hóa/Place ./.
+mua/V lót_chuột/Item 45k/Money cửa_hàng_đồ_điện_tử/Place ./.
+mua/V áo_sơ_mi/Item 350k/Money tại/Prep Shop_Thời_Trang_Nam_Vincom/Place thanh_toán/V bằng/Prep thẻ_Visa/Method ./.
+mua/V táo_nhập_khẩu/Item 200k/Money ở/Prep siêu_thị_BigC/Place thanh_toán/V tiền_mặt/Method ./.
+mua/V sách_Giáo_Khoa/Item 150k/Money tại/Prep Nhà_Sách_Fahasa/Place thanh_toán/V qua/Prep Ví_Momo/Method ./.
+mua/V hoa_hồng/Item 100k/Money ở/Prep Chợ_Hoa_Tươi/Place thanh_toán/V bằng/Prep ZaloPay/Method ./.
+mua/V bánh_mì/Item 20k/Money tại/Prep Tiệm_Bánh_Mì_Phố/Place trả_tiền/Method tiền_mặt/Method ./.
+mua/V mỹ_phẩm/Item 500k/Money tại/Prep Shop_Mỹ_Phẩm_Hàn_Quốc/Place thanh_toán/V bằng/Prep thẻ_Mastercard/Method ./.
+mua/V bàn_làm_việc/Item 1 ./.2_triệu/Money tại/Prep Nội_Thất_Đức_Khang/Place chuyển_khoản/Method ngân_hàng/Method ./.
+mua/V gà_rán/Item KFC/Item 120k/Money ở/Prep Parkson/Place thanh_toán/V qua/Prep Ví_Airpay/Method ./.
+mua/V xe_đạp_điện/Item 15_triệu/Money tại/Prep Cửa_Hàng_Xe_Điện/Place thanh_toán/V bằng/Prep thẻ_tín_dụng/Method ./.
+mua/V laptop_Dell/Item 15_triệu/Money tại/Prep Nguyễn_Kim/Place chuyển_khoản/Method Techcombank/Method ./.
+mua/V điện_thoại_iPhone/Item 25_triệu/Money ở/Prep Thế_Giới_Di_Động/Place thanh_toán/V bằng/Prep thẻ_Visa/Method ./.
+mua/V giày_Nike/Item 2 ./.5_triệu/Money tại/Prep cửa_hàng_giày_Stadium/Place thanh_toán/V bằng/Prep PayPal/Method ./.
+mua/V sách_văn_học/Item 80k/Money tại/Prep Nhà_Sách_Tiền_Phong/Place thanh_toán/V qua/Prep Ví_ZaloPay/Method ./.
+mua/V rau_củ_quả/Item 300k/Money ở/Prep siêu_thị_Co ./.opmart/Place thanh_toán/V tiền_mặt/Method ./.
+mua/V quần_jean/Item 700k/Money tại/Prep Levi's_Store/Place thanh_toán/V thẻ_ghi_nợ/Method ./.
+mua/V máy_tính_bảng_Samsung/Item 9_triệu/Money tại/Prep Điện_Máy_Xanh/Place chuyển_khoản/Method Vietcombank/Method ./.
+mua/V cá_tươi/Item 150k/Money ở/Prep Chợ_Nông_Sản/Place thanh_toán/V tiền_mặt/Method ./.
+mua/V bia_tươi/Item 200k/Money tại/Prep Quán_Bia_Hơi/Place thanh_toán/V qua/Prep Ví_Momo/Method ./.
+mua/V sách_kỹ_năng_sống/Item 120k/Money tại/Prep Tiki/Place thanh_toán/V bằng/Prep thẻ_tín_dụng/Method ./.
+mua/V khăn_quàng_cổ/Item 90k/Money ở/Prep Shop_Phụ_Kiện/Place chuyển_khoản/Method Agribank/Method ./.
+mua/V laptop/Item 20_triệu/Money cửa_hàng_điện_tử_Nguyễn_Kim/Place ./.
+mua/V đồng_hồ/Item 15_triệu/Money cửa_hàng_Trang_sức_PNJ/Place ./.
+mua/V xe_hơi/Item 600_triệu/Money đại_lý_Toyota/Place ./.
+mua/V biệt_thự/Item 15_tỷ/Money khu_đô_thị_Vinhomes/Place ./.
+mua/V sách_tiếng_Anh/Item 200_ngàn/Money Nhà_Sách_Fahasa/Place ./.
+mua/V ghế_sofa/Item 7_triệu/Money nội_thất_Hòa_Phát/Place ./.
+mua/V điện_thoại/iPhone_12/Item 25_triệu/Money cửa_hàng_Apple_Store/Place ./.
+mua/V thịt_bò/Item 500_ngàn/Money chợ_Đông_Ba/Place ./.
+mua/V quạt_máy/Item 1 ./.2_triệu/Money Điện_máy_Xanh/Place ./.
+mua/V bộ_chén_ceramic/Item 600_ngàn/Money cửa_hàng_gốm_sứ_Bát_Tràng/Place ./.
+mua/V đĩa_vinyl/Item 2_triệu/Money cửa_hàng_âm_nhạc_Tân_Phú/Place ./.
+mua/V bộ_đồ_chơi_lego/Item 3_triệu/Money cửa_hàng_đồ_chơi_treasure_island/Place ./.
+mua/V vòng_tay_bạc/Item 1_triệu/Money tiệm_trang_sức_ngọc_thẩm/Place ./.
+mua/V kính_mát/Item 400_ngàn/Money cửa_hàng_phụ_kiện_Thời_Trang/Place ./.
+mua/V chó_cảnh/Item 12_triệu/Money cửa_hàng_thú_cưng_Pet_Care/Place ./.
+mua/V máy_ảnh_Canon/Item 30_triệu/Money cửa_hàng_điện_tử_Pico/Place ./.
+mua/V bàn_phím_cơ/Item 2_triệu/Money cửa_hàng_đồ_điện_tử_Enkey/Place ./.
+mua/V giày_bóng_đá/Item 3_triệu/Money cửa_hàng_thể_thao_Adidas/Place ./.
+mua/V dụng_cụ_cắm_trại/Item 4_triệu/Money cửa_hàng_dã_ngoại_CampX/Place ./.
+mua/V tủ_lạnh/Item 15_triệu/Money siêu_thị_điện_máy_Phuong_Nam/Place ./.
+mua/V gạo/Item 10kg/Nu 300k/Money ./.
+Cà_phê_sáng/Item 15k/Money ./.
+mua/V bánh_mì/Item 25k/Money ./.
+mua/V sữa_đậu_nành/Item 2_lít/Nu 40k/Money ./.
+tính_tiền/V điện/Item tháng_trước/Time 200k/Money ./.
+thanh_toán/V tiền_nước/Item 150k/Money ./.
+mua/V đồ_dùng_vệ_sinh_cá_nhân/Item 120k/Money ./.
+Mượn/V 200k/Money từ/Prep An/Person trả/V bằng/Prep chuyển_khoản/Method ./.
+ăn_trưa/V tại/Prep quán_phở/Place 35k/Money ./.
+mua/V quà_sinh_nhật/Item cho/Prep bạn/Person 100k/Money ./.
+mua/V sách_giáo_khoa/Item 150k/Money ./.
+mua/V balo/Item 300k/Money ./.
+mua/V điện_thoại_thông_minh/Item 10_triệu/Money ./.
+mua/V Cân_điện_tử/Item 2_triệu/Money ./.
+mua/V điện_thoại_Samsung/Item 12_triệu/Money tại/Prep cửa_hàng_điện_tử_Digiworld/Place ./.
+thanh_toán/V tiền_cáp/Item 400k/Money qua/Prep Ví_Momo/Method ./.
+mua/V mặt_nạ_dưỡng_da/Item 600k/Money tại/Prep trung_tâm_thương_mại_Lotte/Place ./.
+đặt_mua/V vé_máy_bay/Item 3_triệu/Money qua/Prep website_Vietnam_Airlines/Place ./.
+mua/V tủ_quần_áo/Item 2_triệu/Money tại/Prep nội_thất_GoHome/Place ./.
+thanh_toán/V tiền_internet/Item tháng_này/Time 500k/Money bằng/Prep chuyển_khoản/Method ./.
+mua/V thiết_bị_điện_tử/Item 15_triệu/Money tại/Prep Điện_máy_Chợ_Lớn/Place ./.
+mua/V thịt_heo/Item 300k/Money ở/Prep chợ_Tân_Định/Place ./.
+mua/V đồ_điện/Item 2_triệu/Money tại/Prep Điện_máy_Thiên_Hòa/Place ./.
+mua/V bàn_ủi/Item 800k/Money tại/Prep cửa_hàng_điện_gia_dụng_Electrolux/Place ./.
+thanh_toán/V tiền_dịch_vụ_taxi/Item 200k/Money qua/Prep Grab/Method ./.
+mua/V hoa_quả/Item 150k/Money cho/Prep ngày_giỗ/Time tại/Prep chợ_truyền_thống/Place ./.
+mua/V thiết_bị_nhà_bếp/Item 5_triệu/Money tại/Prep nội_thất_Eurocook/Place ./.
+mua/V cà_phê_trộn/Item 1kg/Nu 300k/Money tại/Prep cửa_hàng_Coffee_Tree/Place ./.
+thanh_toán/V tiền_gas/Item tháng_này/Time 600k/Money qua/Prep Ví_ZaloPay/Method ./.
+mua/V vải/Item 200k/Money tại/Prep chợ_vải_Bến_Thanh/Place ./.
+đặt_mua/V giường_ngủ/Item 10_triệu/Money qua/Prep nội_thất_Furniweb/Place ./.
+mua/V thuốc_lá/Item 100k/Money tại/Prep tạp_hóa_gần_nhà/Place ./.
+mua/V sách_truyện/Item 2_triệu/Money tại/Prep Nhà_Sách_FAHASA/Place ./.
+mua/V xe_đạp/Item 4_triệu/Money tại/Prep cửa_hàng_xe_đạp_Giant/Place ./.
+mua/V điện_thoại_iPhone/Item 20_triệu/Money tại/Prep Apple_Store/Place ./.
+thanh_toán/V tiền_điện/Item tháng_này/Time 1_triệu/Money qua/Prep Ví_Momo/Method ./.
+mua/V áo_len/Item 500k/Money tại/Prep cửa_hàng_Thời_Trang_Zara/Place ./.
+đặt_mua/V vé_xem_phim/Item Avengers/Item 150k/Money qua/Prep website_CGV/Place ./.
+mua/V laptop_Dell/Item 30_triệu/Money tại/Prep Điện_Máy_Chợ_Lớn/Place ./.
+thanh_toán/V tiền_nước/Item tháng_trước/Time 200k/Money bằng/Prep chuyển_khoản/Method ./.
+mua/V máy_photocopy/Item 25_triệu/Money tại/Prep cửa_hàng_điện_tử_Anh_Khoa/Place ./.
+mua/V sữa_chua/Item 100k/Money ở/Prep siêu_thị_Metro/Place ./.
+mua/V bàn_chải_điện/Item 700k/Money tại/Prep cửa_hàng_phụ_kiện_Gearvn/Place ./.
+mua/V hộp_cơm/Item 250k/Money tại/Prep cửa_hàng_đồ_gia_dụng_Lock&Lock/Place ./.
+thanh_toán/V tiền_cước_internet/Item 300k/Money qua/Prep Ví_Airpay/Method ./.
+mua/V quạt_trần/Item 1_triệu/Money cho/Prep ngôi_nhà_mới/Time tại/Prep Điện_Máy_Xanh/Place ./.
+mua/V bình_nước_nóng/Item 3_triệu/Money tại/Prep siêu_thị_điện_máy_Pico/Place ./.
+mua/V tivi_LG/Item 20_triệu/Money tại/Prep Điện_máy_Nguyễn_Kim/Place ./.
+thanh_toán/V tiền_thuê_nhà/Item tháng_này/Time 15_triệu/Money bằng/Prep chuyển_khoản/Method ./.
+mua/V sách_Toán/Item 200k/Money tại/Prep Nhà_Sách_Tiền_Phong/Place ./.
+đặt_mua/V bộ_ly_sứ/Item 400k/Money qua/Prep trang_web_Tiki/Place ./.
+mua/V cá_hồi/Item 2kg/Nu 1_triệu/Money tại/Prep chợ_Nguyễn_Cảnh_Chan/Place ./.
+mua/V kem_dưỡng_da/Item 1.5_triệu/Money tại/Prep cửa_hàng_Mỹ_Phẩm_Sephora/Place ./.
+mua/V giày_thể_thao/Item Nike/Item 3_triệu/Money tại/Prep cửa_hàng_Thể_Thao_Adidas/Place ./.
+mua/V cá/Item 20k/Money ,/, rau/Item 10k/Money ,/, thịt/Item 50k/Money ./.
+mua/V bánh_mì/Item 15k/Money ,/, sữa/Item 20k/Money ,/, trứng/Item 30k/Money ./.
+mua/V táo/Item 25k/Money ,/, cam/Item 30k/Money ,/, nho/Item 45k/Money ./.
+mua/V sách/Item 50k/Money ,/, vở/Item 20k/Money ,/, bút/Item 15k/Money ./.
+mua/V quần/Item 200k/Money ,/, áo/Item 150k/Money ,/, mũ/Item 100k/Money ./.
+mua/V nước_hoa/Item 500k/Money ,/, mỹ_phẩm/Item 300k/Money ,/, kem_dưỡng/Item 350k/Money ./.
+mua/V bột_giặt/Item 100k/Money ,/, xà_bông/Item 50k/Money ,/, dầu_gội/Item 150k/Money ./.
+mua/V tivi/Item 10_triệu/Money ,/, loa/Item 5_triệu/Money ,/, điều_hòa/Item 15_triệu/Money ./.
+mua/V giày/Item 1_triệu/Money ,/, túi_xách/Item 2_triệu/Money ,/, dây_chuyền/Item 500k/Money ./.
+mua/V bia/Item 200k/Money ,/, rượu_vang/Item 600k/Money ,/, snack/Item 150k/Money ./.
+mua/V xe_đạp/Item 2_triệu/Money ,/, mũ_bảo_hiểm/Item 500k/Money ,/, găng_tay/Item 200k/Money ./.
+mua/V sữa_tươi/Item 60k/Money ,/, bánh_quy/Item 30k/Money ,/, mứt/Item 75k/Money ./.
+mua/V ga_trải_giường/Item 400k/Money ,/, gối/Item 150k/Money ,/, chăn/Item 300k/Money ./.
+mua/V bột_ăn_dặm/Item 120k/Money ,/, sữa_bột/Item 350k/Money ,/, tã/Item 500k/Money ./.
+mua/V thuốc_ho/Item 80k/Money ,/, thuốc_cảm/Item 60k/Money ,/, vitamin/Item 100k/Money ./.
+mua/V son_môi/Item 250k/Money ,/, phấn_má/Item 300k/Money ,/, kem_lót/Item 350k/Money ./.
+mua/V sách_Toán/Item 90k/Money ,/, sách_Vật_lý/Item 85k/Money ,/, sách_Hóa_học/Item 95k/Money ./.
+mua/V cà_chua/Item 30k/Money ,/, dưa_chuột/Item 20k/Money ,/, bắp_cải/Item 25k/Money ./.
+mua/V áo_thun/Item 200k/Money ,/, quần_jean/Item 500k/Money ,/, giày_thể_thao/Item 1_triệu/Money ./.
+mua/V đèn_LED/Item 150k/Money ,/, đèn_pin/Item 100k/Money ,/, bóng_đèn/Item 75k/Money ./.
+mua/V cà_phê/Item 200k/Money ,/, đường/Item 50k/Money ,/, sữa/Item 100k/Money tại/Prep siêu_thị_BigC/Place ./.
+đặt/V phòng/Item 3_triệu/Money cho/Prep kỳ_nghỉ/Item tại/Prep khách_sạn_Daewoo/Place ./.
+thanh_toán/V chi_phí/Item 500k/Money cho/Prep buổi_khám_bệnh/Item tại/Prep bệnh_viện_Thu_Cúc/Place ./.
+mua/V hoa_quả/Item 150k/Money ,/, rau_xanh/Item 120k/Money ,/, thịt_heo/Item 300k/Money tại/Prep chợ_Bến_Thanh/Place ./.
+mua/V sách/Item 400k/Money ,/, tạp_chí/Item 200k/Money tại/Prep nhà_sách_Fahasa/Place ./.
+đặt_mua/V tour_du_lịch/Item 10_triệu/Money cho/Prep chuyến_đi/Item tới/Prep Đà_Nẵng/Place ./.
+mua/V giày/Item 2_triệu/Money ,/, túi_xách/Item 3_triệu/Money tại/Prep trung_tâm_thương_mại_Vincom/Place ./.
+thanh_toán/V hóa_đơn/Item 1_triệu/Money cho/Prep dịch_vụ_internet/Item tại/Prep nhà/Prep ./.
+mua/V bánh_mì/Item 30k/Money ,/, pate/Item 50k/Money tại/Prep tiệm_bánh_Paul/Place ./.
+thanh_toán/V tiền_điện/Item 400k/Money cho/Prep tháng_trước/Time tại/Prep quầy_thu_ngân/Prep ./.
+mua/V quần_short/Item 300k/Money ,/, áo_khoác/Item 600k/Money tại/Prep siêu_thị_CoopMart/Place ./.
+đặt/V vé_xem_phim/Item 200k/Money cho/Prep bộ_phim/Item Avengers/Item tại/Prep rạp_chiếu_phim_CGV/Place ./.
+mua/V thuốc_tây/Item 500k/Money cho/Prep đợt_điều_trị/Item tại/Prep hiệu_thuốc_An_Bình/Place ./.
+mua/V lốp_xe/Item 1.5_triệu/Money ,/, dầu_nhớt/Item 500k/Money tại/Prep cửa_hàng_phụ_tùng_xe_máy_Thanh_Bình/Place ./.
+thanh_toán/V chi_phí/Item 2_triệu/Money cho/Prep chuyến_bay/Item tới/Prep Hà_Nội/Place ./.
+mua/V kem_chống_nắng/Item 350k/Money ,/, mũ_rộng_vành/Item 250k/Money cho/Prep chuyến_đi_biển/Item tại/Prep cửa_hàng_đồ_du_lịch_Beach_Shop/Place ./.
+mua/V bột_ăn_dặm/Item 120k/Money ,/, sữa_bột/Item 300k/Money ,/, tã/Item 600k/Money tại/Prep siêu_thị_Metro/Place ./.
+thanh_toán/V hóa_đơn_nước/Item 150k/Money cho/Prep tháng_này/Time tại/Prep trụ_sở_công_ty_nước/Prep ./.
+mua/V mực_in/Item 300k/Money ,/, giấy_in/Item 150k/Money tại/Prep cửa_hàng_văn_phòng_phẩm_Office_Depot/Place ./.
+đặt_mua/V vé_xem_thể_thao/Item 1_triệu/Money cho/Prep trận_đấu/Item bóng_đá/Item tại/Prep sân_vận_động_Mỹ_Đình/Place ./.
+mua/V thịt_bò/Item 400k/Money ,/, cá_hồi/Item 350k/Money tại/Prep chợ_Nguyễn_Cảnh_Chân/Place ./.
+thanh_toán/V chi_phí/Item khám_bệnh/Item 250k/Money tại/Prep phòng_khám_Đa_Khoa_International/Place ./.
+mua/V rau_củ/Item 150k/Money ,/, hoa_quả/Item 200k/Money tại/Prep siêu_thị_Lotte/Place ./.
+đặt/V chỗ/Item 5_triệu/Money cho/Prep chuyến_du_lịch/Item tới/Prep Phú_Quốc/Place tại/Prep công_ty_du_lịch_Traveloka/Place ./.
+mua/V đồ_chơi_trẻ_em/Item 600k/Money ,/, quần_áo_trẻ_em/Item 700k/Money tại/Prep cửa_hàng_ToysRUs/Place ./.
+thanh_toán/V hóa_đơn_điện/Item 1.2_triệu/Money cho/Prep tháng_trước/Time tại/Prep văn_phòng_điện_lực/Place ./.
+mua/V sách_kỹ_năng/Item 350k/Money ,/, sách_nấu_ăn/Item 200k/Money tại/Prep nhà_sách_Tân_Định/Place ./.
+đặt/V bàn/Item 1_triệu/Money cho/Prep tiệc_cưới/Item tại/Prep nhà_hàng_Eon_Heli_Bar/Place ./.
+mua/V đồ_điện_tử/Item 15_triệu/Money ,/, đồ_gia_dụng/Item 10_triệu/Money tại/Prep siêu_thị_Nguyễn_Kim/Place ./.
+thanh_toán/V chi_phí/Item phẫu_thuật/Item 30_triệu/Money tại/Prep bệnh_viện_Jeanne_d’Arc/Place ./.
+mua/V bánh_trung_thu/Item 500k/Money ,/, trà/Item 300k/Money cho/Prep lễ_Trung_Thu/Time tại/Prep cửa_hàng_Bảo_Phương/Place ./.
+đặt_mua/V vé_máy_bay/Item 4_triệu/Money cho/Prep chuyến_đi/Item tới/Prep Hà_Giang/Place tại/Prep website_Vietnam_Airlines/Place ./.
+mua/V nước_hoàng/Item 250k/Money ,/, kem_đánh_răng/Item 100k/Money tại/Prep siêu_thị_Aeon/Place ./.
+thanh_toán/V tiền_học_phí/Item 20_triệu/Money cho/Prep học_kỳ/Item tới/Prep tại/Prep trường_đại_học_HUTECH/Place ./.
+mua/V áo_thun/Item 200k/Money ,/, quần_jean/Item 500k/Money tại/Prep cửa_hàng_Uniqlo/Place ./.
+đặt_mua/V giày_bóng_đá/Item 1.5_triệu/Money cho/Prep giải_đấu/Item tới/Prep tại/Prep cửa_hàng_Sport1/Place ./.
+mua/V hoa_tươi/Item 150k/Money cho/Prep sự_kiện/Item tại/Prep cửa_hàng_hoa_Tường_Vi/Place ./.
+thanh_toán/V vé_xe/Item 300k/Money cho/Prep chuyến_đi/Item tới/Prep Đà_Lạt/Place tại/Prep bến_xe_Miền_Đông/Place ./.
+mua/V dụng_cụ_vẽ/Item 600k/Money ,/, màu_acrylic/Item 500k/Money tại/Prep cửa_hàng_mỹ_thuật_ArtFriend/Place ./.
+thanh_toán/V tiền_phòng/Item ./.
+mua/V bánh_snack/Item 100k/Money ,/, nước_ngọt/Item 50k/Money tại/Prep cửa_hàng_Circle_K/Place ./.
+đặt_mua/V tour/Item 15_triệu/Money cho/Prep du_lịch_châu_Âu/Item tại/Prep công_ty_du_lịch_TravelPlus/Place ./.
+thanh_toán/V tiền_thuê_xe/Item 2_triệu/Money cho/Prep chuyến_đi/Item công_tác/Item tại/Prep công_ty_cho_thuê_xe_Thành_Bưởi/Place ./.
+mua/V sách_giáo_khoa/Item 300k/Money ,/, bút_chì/Item 50k/Money tại/Prep nhà_sách_Phan_Thị/Place ./.
+đặt/V bàn/Item 800k/Money cho/Prep bữa_tối/Item tại/Prep nhà_hàng_Mandarine/Place ./.
+mua/V điện_thoại/Item 10_triệu/Money ,/, phụ_kiện/Item 2_triệu/Money tại/Prep cửa_hàng_điện_tử_Techland/Place ./.
+thanh_toán/V tiền_cắt_tóc/Item 200k/Money tại/Prep salon_tóc_Tony&Guy/Place ./.
+mua/V giày_cao_gót/Item 1_triệu/Money ,/, váy/Item 2_triệu/Money cho/Prep đám_cưới/Item tại/Prep cửa_hàng_thời_trang_Linh_Nhi/Place ./.
+đặt/V khám_nhi/Item 500k/Money cho/Prep con/Item tại/Prep bệnh_viện_Nhi_Đồng_2/Place ./.
+mua/V mực_in/Item 400k/Money ,/, giấy_A4/Item 150k/Money tại/Prep siêu_thị_văn_phòng_phẩm_Office_1/Place ./.
+thanh_toán/V vé_xe_lửa/Item 1_triệu/Money cho/Prep chuyến_đi/Item nghỉ_dưỡng/Item tại/Prep Nha_Trang/Place ./.
+mua/V đồ_điện_tử/Item 5_triệu/Money ,/, đồ_gia_dụng/Item 3_triệu/Money tại/Prep trung_tâm_điện_máy_Hoàng_Hà/Place ./.
+đặt_mua/V áo_cưới/Item 15_triệu/Money tại/Prep studio_áo_cưới_Juliette/Place ./.
+mua/V hoa_tươi/Item 300k/Money ,/, chocolate/Item 200k/Money cho/Prep ngày_lễ_tình_nhân/Item tại/Prep cửa_hàng_quà_tặng_Valentine/Place ./.
+thanh_toán/V học_phí/Item 30_triệu/Money cho/Prep kỳ_học_tới/Time tại/Prep trường_đại_học_FPT/Place ./.
+đặt/V chỗ_nghỉ/Item 4_triệu/Money cho/Prep chuyến_đi_biển/Item tới/Prep Đà_Nẵng/Place tại/Prep website_booking.com/Place ./.
+mua/V đèn_led/Item 500k/Money ,/, dây_điện/Item 200k/Money tại/Prep cửa_hàng_điện_tử_ElectroMart/Place ./.
+thanh_toán/V chi_phí/Item sửa_xe/Item 1_triệu/Money sau/Prep tai_nạn/Item tại/Prep garage_oto_AutoFix/Place ./.
+mua/V sách_kinh_tế/Item 400k/Money ,/, sách_lịch_sử/Item 300k/Money tại/Prep nhà_sách_Nguyễn_Văn_Cừ/Place ./.
+mua/V máy_tính_bảng/Item 9_triệu/Money ,/, ốp_lưng/Item 300k/Money tại/Prep cửa_hàng_Apple_iStudio/Place ./.
+
+
+

@@ -1,0 +1,300 @@
+mua/V áo_sơ_mi/Item 300/Nu k/Money ./.
+mua/V bánh_quy/Item 40/Nu k/Money ./.
+mua/V kẹo_sô/Item cô/Item la/Item 50/Nu k/Money ./.
+mua/V rau_ngót/Item 20/Nu k/Money ./.
+thanh_toán/V tiền/Item gửi/V xe/Item tháng/Time này/Time 100/Nu k/Money ./.
+mua/V thịt/Item ba/Item chỉ/Item 250/Nu k/Money ./.
+mua/V chả/Item tôm/Item 100/Nu k/Money ./.
+mua/V gạo/Item lứt/Item 70/Nu k/Money ./.
+mua/V nồi_chiên/Item không/Item dầu/Item 1.5/Nu triệu/Money ./.
+mua/V bắp_cải/Item 30/Nu k/Money ./.
+mua/V quà/Item lưu_niệm/Item 150/Nu k/Money ./.
+mua/V sữa/Item chua/Item 50/Nu k/Money ./.
+mua/V nước/Item uống/V đóng/V chai/Item 100/Nu k/Money ./.
+mua/V bánh_pía/Item 60/Nu k/Money ./.
+thanh_toán/V tiền/Item khám/Item răng/Item 500/Nu k/Money ./.
+mua/V hạt/Item điều/Item 100/Nu k/Money ./.
+mua/V đèn/Item bàn/Item học/Item 200/Nu k/Money ./.
+mua/V nồi/Item lẩu/Item 300/Nu k/Money ./.
+mua/V trứng/Item gà/Item 40/Nu k/Money ./.
+mua/V giày/Item sandal/Item 400/Nu k/Money ./.
+mua/V bánh_mì/Item 30/Nu k/Money ./.
+mua/V sữa/Item hạt/Item 70/Nu k/Money ./.
+mua/V bút_bi/Item 20/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_dưỡng/Item máy_lạnh/Item 200/Nu k/Money ./.
+mua/V bắp/Item ngô/Item 20/Nu k/Money ./.
+mua/V rau/Item bí/Item 30/Nu k/Money ./.
+mua/V chả/Item cá/Item thác/Item lác/Item 80/Nu k/Money ./.
+mua/V nước/Item rửa/Item tay/Item 50/Nu k/Money ./.
+mua/V đèn_pin/Item 50/Nu k/Money ./.
+mua/V nước/Item sôi/Item 20/Nu k/Money ./.
+mua/V bánh_chưng/Item 100/Nu k/Money ./.
+mua/V đèn/Item ngủ/Item 100/Nu k/Money ./.
+mua/V mứt/Item dừa/Item 60/Nu k/Money ./.
+mua/V quần_đùi/Item 200/Nu k/Money ./.
+thanh_toán/V tiền/Item dịch_vụ/Item bảo_vệ/Item 300/Nu k/Money ./.
+mua/V bông/Item hoa/Item 50/Nu k/Money ./.
+mua/V rau_má/Item 20/Nu k/Money ./.
+mua/V sữa_đậu_nành/Item 50/Nu k/Money ./.
+mua/V bột_ngọt/Item 30/Nu k/Money ./.
+mua/V bột/Item mì/Item 40/Nu k/Money ./.
+mua/V chả/Item bò/Item 100/Nu k/Money ./.
+mua/V rau/Item lang/Item 20/Nu k/Money ./.
+mua/V bánh_tét/Item 80/Nu k/Money ./.
+mua/V thùng/Item rác/Item 100/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_hiểm/Item sức/Item khỏe/Item 500/Nu k/Money ./.
+mua/V túi/Item đựng/Item rác/Item 20/Nu k/Money ./.
+mua/V kem/Item dưỡng/Item ẩm/Item 200/Nu k/Money ./.
+mua/V giấy/Item gói/Item hoa/Item 20/Nu k/Money ./.
+mua/V bột/Item nêm/Item 30/Nu k/Money ./.
+mua/V mỳ/Item cay/Item 40/Nu k/Money ./.
+mua/V gạo/Item thơm/Item 70/Nu k/Money ./.
+mua/V sữa/Item đặc/Item 30/Nu k/Money ./.
+mua/V bánh/Item chuối/Item 50/Nu k/Money ./.
+mua/V nước/Item mía/Item 20/Nu k/Money ./.
+mua/V chả/Item cua/Item 80/Nu k/Money ./.
+mua/V đèn/Item đường/Item 150/Nu k/Money ./.
+mua/V rau/Item mùi/Item 10/Nu k/Money ./.
+mua/V giấy/Item dán/Item tường/Item 200/Nu k/Money ./.
+mua/V nồi/Item nước/Item sôi/Item 300/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_trì/Item máy_giặt/Item 200/Nu k/Money ./.
+mua/V quà/Item trung_thu/Item 300/Nu k/Money ./.
+mua/V nước/Item rửa/Item chén/Item 50/Nu k/Money ./.
+mua/V chả/Item quế/Item 60/Nu k/Money ./.
+mua/V rau_thơm/Item 10/Nu k/Money ./.
+mua/V đèn/Item trần/Item 300/Nu k/Money ./.
+mua/V bánh_gai/Item 40/Nu k/Money ./.
+mua/V mỳ/Item sợi/Item 30/Nu k/Money ./.
+mua/V bánh_bèo/Item 50/Nu k/Money ./.
+mua/V giấy/Item gói/Item quà/Item 20/Nu k/Money ./.
+mua/V bánh_cuốn/Item 30/Nu k/Money ./.
+mua/V nồi/Item hấp/Item 200/Nu k/Money ./.
+mua/V đèn_bão/Item 150/Nu k/Money ./.
+mua/V rau_muống/Item 20/Nu k/Money ./.
+thanh_toán/V tiền/Item thuê/Item mặt_bằng/Item 2/Nu triệu/Money ./.
+mua/V chả/Item trứng/Item 60/Nu k/Money ./.
+mua/V mắm_tôm/Item 20/Nu k/Money ./.
+mua/V giấy/Item in/Item 100/Nu k/Money ./.
+mua/V bánh_dày/Item 30/Nu k/Money ./.
+mua/V nước/Item uống/V tinh_khiết/Item 50/Nu k/Money ./.
+mua/V hạt/Item sen/Item 80/Nu k/Money ./.
+mua/V bột/Item gạo/Item 40/Nu k/Money ./.
+mua/V nồi/Item chảo/Item 200/Nu k/Money ./.
+mua/V đèn/Item nháy/Item 150/Nu k/Money ./.
+mua/V rau/Item chân_vịt/Item 30/Nu k/Money ./.
+mua/V bánh/Item bông/Item lan/Item 50/Nu k/Money ./.
+mua/V mỳ/Item quảng/Item 40/Nu k/Money ./.
+mua/V nồi/Item cơm/Item điện/Item 500/Nu k/Money ./.
+mua/V chả/Item mực/Item 100/Nu k/Money ./.
+mua/V sữa/Item tươi/Adj 60/Nu k/Money ./.
+mua/V đèn_led/Item 100/Nu k/Money ./.
+mua/V giấy/Item thấm/Item dầu/Item 30/Nu k/Money ./.
+mua/V bánh_phồng/Item 20/Nu k/Money ./.
+mua/V rau/Item cải_thìa/Item 20/Nu k/Money ./.
+mua/V bánh_bía/Item 40/Nu k/Money ./.
+mua/V nồi/Item chưng/Item cách/Item thủy/Item 300/Nu k/Money ./.
+mua/V đèn/Item dầu/Item 100/Nu k/Money ./.
+mua/V bột_nghệ/Item 30/Nu k/Money ./.
+mua/V hạt/Item chia/Item 80/Nu k/Money ./.
+mua/V rau/Item dền/Item 20/Nu k/Money ./.
+thanh_toán/V tiền/Item vệ_sinh/Item chung_cư/Item 100/Nu k/Money ./.
+hôm_nay/Time mua/V bánh_pizza/Item 150/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item thêm/Item 200/Nu k/Money ./.
+mua/V nấm/Item hương/Item 50/Nu k/Money ./.
+hôm_nay/Time mua/V áo_phông/Item 200/Nu k/Money ./.
+mua/V chè/Item xanh/Item 30/Nu k/Money ./.
+đi/V ăn_sáng/Item ngoài/Item 50/Nu k/Money ./.
+mua/V khăn_quàng/Place cổ/Item 100/Nu k/Money ./.
+đưa/Item con/Person đi/V chơi/Item công_viên/Item 50/Nu k/Money ./.
+thanh_toán/V tiền_học_thêm/Item của/Prep con/Person 500/Nu k/Money ./.
+mua/V máy_xay_sinh_tố/Item 800/Nu k/Money ./.
+mua/V nước_ngọt/Item có/Item ga/Item 50/Nu k/Money ./.
+đi/V spa/Item chăm_sóc/Item da/Item 300/Nu k/Money ./.
+mua/V áo_len/Item 300/Nu k/Money ./.
+mua/V mứt_trái_cây/Item 70/Nu k/Money ./.
+đi/V tập/Item gym/Item 200/Nu k/Money ./.
+mua/V kem/Item tươi/Adj 50/Nu k/Money ./.
+thanh_toán/V tiền/Item thợ/Item sửa/Item điện/Item 200/Nu k/Money ./.
+đi/V khám/Item mắt/Item 150/Nu k/Money ./.
+mua/V đậu/Item đỏ/Item 40/Nu k/Money ./.
+đi/V ăn_tối/Item ngoài/Item 400/Nu k/Money ./.
+mua/V bánh_đa/Item 20/Nu k/Money ./.
+mua/V đồ_ngủ/Item 300/Nu k/Money ./.
+đi/V dã_ngoại/Item 100/Nu k/Money ./.
+mua/V chả/Item cá/Item lăng/Item 100/Nu k/Money ./.
+thanh_toán/V tiền/Item gửi/V xe/Item hàng/Place tháng/Time 200/Nu k/Money ./.
+đi/V bơi/Item với/Prep bạn/Person 50/Nu k/Money ./.
+mua/V rau_muống/Item 20/Nu k/Money ./.
+đi/V xem/V ca_nhạc/Item 300/Nu k/Money ./.
+hôm_nay/Time mua/V bánh/Item hỏi/Item 50/Nu k/Money ./.
+mua/V vé/Item tàu_xe/Item 200/Nu k/Money ./.
+đưa/Item con/Person đi/V chơi/Item khu/Item vui_chơi/Item 100/Nu k/Money ./.
+mua/V chả/Item giò/Item 80/Nu k/Money ./.
+đi/V uống/V trà/Item sữa/Item 70/Nu k/Money ./.
+thanh_toán/V tiền/Item dịch_vụ/Item làm/Item móng/Item 150/Nu k/Money ./.
+mua/V sách/Item mới/Adj 150/Nu k/Money ./.
+đi/V học/Item yoga/Animal 300/Nu k/Money ./.
+mua/V hoa_quả/Item 100/Nu k/Money ./.
+mua/V bột/Item làm/Item bánh/Item 50/Nu k/Money ./.
+thanh_toán/V tiền/Item cắt_tóc/Item 200/Nu k/Money ./.
+đi/V ăn_lẩu/Item 300/Nu k/Money ./.
+mua/V nước/Item ép/Item trái_cây/Item 50/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item bơi/Item 100/Nu k/Money ./.
+mua/V bánh/Item bông/Item lan/Item 30/Nu k/Money ./.
+mua/V dầu_gội/Item 80/Nu k/Money ./.
+đi/V du_lịch/Item cuối/Item tuần/Time 2/Nu triệu/Money ./.
+mua/V rau/Item xà_lách/Item 20/Nu k/Money ./.
+mua/V đồ_chơi/Item trẻ_em/Item 150/Nu k/Money ./.
+thanh_toán/V tiền/Item thuê/Item xe/Item 500/Nu k/Money ./.
+mua/V quà/Item tặng/V sinh_nhật/Item 200/Nu k/Money ./.
+đi/V học/Item thêm/Item lớp/Item nhảy/Item 300/Nu k/Money ./.
+mua/V kẹo/Item mút/Item 20/Nu k/Money ./.
+đi/V ăn_sáng/Item ở/Prep quán_phở/Place 50/Nu k/Money ./.
+mua/V sữa/Item chua/Item 60/Nu k/Money ./.
+mua/V quần_áo/Item cho/Prep con/Person 200/Nu k/Money ./.
+thanh_toán/V tiền/Item taxi/Item 150/Nu k/Money ./.
+mua/V vé_xem_phim/Item 100/Nu k/Money ./.
+mua/V đèn/Item trang_trí/Item 200/Nu k/Money ./.
+đi/V tập_gym/Item với/Prep bạn/Person 100/Nu k/Money ./.
+mua/V bánh_mì/Item ngọt/Item 30/Nu k/Money ./.
+mua/V rau/Item cải/Item 20/Nu k/Money ./.
+mua/V vé/Item tham_quan/Item bảo_tàng/Place 50/Nu k/Money ./.
+thanh_toán/V tiền/Item sửa/Item xe/Item 300/Nu k/Money ./.
+mua/V bánh_pizza/Item 150/Nu k/Money ./.
+mua/V nước_khoáng/Item 20/Nu k/Money ./.
+đi/V cắt_tóc/Item 100/Nu k/Money ./.
+mua/V hoa/Item tươi/Adj 50/Nu k/Money ./.
+mua/V sách/Item hướng_dẫn/Item nấu_ăn/Item 100/Nu k/Money ./.
+mua/V vé_xem_kịch/Item 200/Nu k/Money ./.
+đi/V chơi/Item công_viên/Item 50/Nu k/Money ./.
+mua/V đèn/Item bàn/Item 150/Nu k/Money ./.
+thanh_toán/V tiền_nước/Item uống/V 30/Nu k/Money ./.
+mua/V kem_dưỡng_da/Item 200/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item đàn/Item 200/Nu k/Money ./.
+mua/V bánh_trung_thu/Item 150/Nu k/Money ./.
+mua/V nồi/Item cơm/Item điện/Item 500/Nu k/Money ./.
+đi/V học/Item vẽ/Item 200/Nu k/Money ./.
+mua/V sữa/Item tươi/Adj 50/Nu k/Money ./.
+mua/V đồ_ăn_vặt/Item 100/Nu k/Money ./.
+thanh_toán/V tiền/Item sửa/Item máy_giặt/Item 300/Nu k/Money ./.
+mua/V trái_cây/Item 80/Nu k/Money ./.
+đi/V spa/Item thư_giãn/Item 300/Nu k/Money ./.
+mua/V hoa_quả/Item sấy/Item 60/Nu k/Money ./.
+mua/V vé/Item xem/V hòa_nhạc/Item 300/Nu k/Money ./.
+mua/V sách/Item thiếu_nhi/Item cho/Prep con/Person 100/Nu k/Money ./.
+đi/V ăn_tối/Item ngoài/Item 200/Nu k/Money ./.
+mua/V dầu_ăn/Item 50/Nu k/Money ./.
+mua/V đồ_dùng/Item học_tập/Item 150/Nu k/Money ./.
+thanh_toán/V tiền_internet/Item 250/Nu k/Money ./.
+mua/V hoa/Item khô/Item 50/Nu k/Money ./.
+mua/V kem_chống_nắng/Item 200/Nu k/Money ./.
+đi/V học/Item ngoại_ngữ/Item 500/Nu k/Money ./.
+mua/V đèn_pin/Item 50/Nu k/Money ./.
+mua/V bột/Item chiên/Item xù/Item 30/Nu k/Money ./.
+đi/V dạo/Item phố/Item 20/Nu k/Money ./.
+thanh_toán/V tiền/Item dịch_vụ/Item giặt_là/Item 100/Nu k/Money ./.
+mua/V rau/Item tươi/Adj 50/Nu k/Money ./.
+đi/V ăn_sáng/Item cùng/Item gia_đình/Item 150/Nu k/Money ./.
+mua/V sách_giáo_khoa/Item 200/Nu k/Money ./.
+mua/V đồ/Item trang_trí/Item 100/Nu k/Money ./.
+đi/V chơi/Item bowling/Item 200/Nu k/Money ./.
+thanh_toán/V tiền_thuê_nhà/Item 4/Nu triệu/Money ./.
+mua/V vé_máy_bay/Item 3/Nu triệu/Money ./.
+đi/V dạo/Item biển/Item 50/Nu k/Money ./.
+mua/V vé/Item xem/V triển_lãm/Item nghệ_thuật/Item 100/Nu k/Money ./.
+mua/V nước_hoa/Item 400/Nu k/Money ./.
+đưa/Item con/Person đi/V thăm/Item ông_bà/Person 200/Nu k/Money ./.
+mua/V vé/Item xem/V hài_kịch/Item 150/Nu k/Money ./.
+mua/V rau/Item chân_vịt/Item 20/Nu k/Money ./.
+đi/V ăn/Item bánh_xèo/Item 50/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_hiểm_y_tế/Item 600/Nu k/Money ./.
+mua/V nồi/Item lẩu/Item điện/Item 700/Nu k/Money ./.
+đi/V chơi/Item khu/Item sinh_thái/Item 300/Nu k/Money ./.
+mua/V đèn_led/Item trang_trí/Item 100/Nu k/Money ./.
+mua/V quần_jean/Item 500/Nu k/Money ./.
+đi/V học/Item lớp/Item nấu_ăn/Item 400/Nu k/Money ./.
+mua/V mực/Item tươi/Adj 200/Nu k/Money ./.
+mua/V áo_khoác/Item 600/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item karate/Item 200/Nu k/Money ./.
+thanh_toán/V tiền_điện/Item 500/Nu k/Money ./.
+mua/V bột/Item ngô/Item 30/Nu k/Money ./.
+mua/V sách/Item tâm_lý_học/Item 250/Nu k/Money ./.
+đi/V chụp/Item hình/Item gia_đình/Item 400/Nu k/Money ./.
+mua/V cà_phê/Item nguyên_chất/Item 100/Nu k/Money ./.
+mua/V máy_hút_bụi/Item 1.5/Nu triệu/Money ./.
+mua/V kẹo/Item gôm/Item 30/Nu k/Money ./.
+đi/V chơi/Item công_viên_nước/Item 250/Nu k/Money ./.
+mua/V vé/Item xem/V xiếc/Item 100/Nu k/Money ./.
+thanh_toán/V tiền/Item sửa/Item nhà/Item 2/Nu triệu/Money ./.
+mua/V áo/Item thun/Item 200/Nu k/Money ./.
+mua/V nước_mắm/Item 50/Nu k/Money ./.
+đi/V uống/V trà/Item chiều/Time 100/Nu k/Money ./.
+mua/V hoa_quả/Item nhập_khẩu/Item 300/Nu k/Money ./.
+mua/V sách/Item truyện_cổ_tích/Item 100/Nu k/Money ./.
+đi/V du_lịch/Item nước_ngoài/Item 20/Nu triệu/Money ./.
+mua/V bánh_pía/Item 60/Nu k/Money ./.
+mua/V quần_áo/Item bơi/Item 300/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item múa/Item 200/Nu k/Money ./.
+thanh_toán/V tiền_nước/Item 400/Nu k/Money ./.
+mua/V bột/Item mì/Item 50/Nu k/Money ./.
+mua/V dầu/Item dừa/Item 70/Nu k/Money ./.
+đi/V massage/Item thư_giãn/Item 300/Nu k/Money ./.
+mua/V vé/Item xem/V bóng_đá/Item 200/Nu k/Money ./.
+mua/V áo_dài/Item 500/Nu k/Money ./.
+mua/V đèn/Item bàn/Item làm_việc/Item 150/Nu k/Money ./.
+mua/V sách/Item học/Item tiếng/Item anh/Item 200/Nu k/Money ./.
+mua/V máy_lọc/Item không_khí/Item 2/Nu triệu/Money ./.
+mua/V bột/Item trà/Item xanh/Item 50/Nu k/Money ./.
+đi/V xem/V nhạc_hội/Item 500/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_hiểm/Item xe_máy/Item 300/Nu k/Money ./.
+mua/V áo_sơ_mi/Item 300/Nu k/Money ./.
+mua/V vé_xem_phim/Item 3/Nu d/Item 150/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item võ/Item 200/Nu k/Money ./.
+mua/V sách_học/Item lập_trình/Item 300/Nu k/Money ./.
+đi/V ăn_bánh_bèo/Item 50/Nu k/Money ./.
+mua/V vé_xem_kịch/Item 200/Nu k/Money ./.
+mua/V đồ/Item gia_dụng/Item 1/Nu triệu/Money ./.
+thanh_toán/V tiền/Item bảo_dưỡng/Item xe_máy/Item 500/Nu k/Money ./.
+mua/V sách/Item hướng_dẫn/Item yoga/Animal 150/Nu k/Money ./.
+mua/V sữa/Item chua/Item uống/V 50/Nu k/Money ./.
+mua/V rau/Item mùi/Item 20/Nu k/Money ./.
+đi/V ăn/Item bánh_khọt/Item 50/Nu k/Money ./.
+mua/V vé/Item xem/V hòa_nhạc/Item cổ_điển/Item 300/Nu k/Money ./.
+mua/V áo_thun/Item cho/Prep con/Person 100/Nu k/Money ./.
+mua/V đèn/Item ngủ/Item 200/Nu k/Money ./.
+đi/V học/Item lớp/Item vẽ/Item tranh/Item 400/Nu k/Money ./.
+thanh_toán/V tiền_học_phí/Item đại_học/Place 10/Nu triệu/Money ./.
+mua/V sách/Item thiếu_nhi/Item 150/Nu k/Money ./.
+mua/V vé_xe_buýt/Item tháng/Time 200/Nu k/Money ./.
+đi/V ăn/Item bánh_canh/Item cua/Item 100/Nu k/Money ./.
+mua/V áo_mưa/Item 50/Nu k/Money ./.
+mua/V đồ_chơi_giáo_dục/Item cho/Prep con/Person 300/Nu k/Money ./.
+mua/V vé_xem_phim/Item imax/Item 200/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_hiểm/Item nhân_thọ/Item 1/Nu triệu/Money ./.
+mua/V sách/Item dạy/Item nấu_ăn/Item 200/Nu k/Money ./.
+đi/V học/Item lớp/Item làm/Item bánh/Item 300/Nu k/Money ./.
+mua/V nước/Item ép/Item dứa/Item 50/Nu k/Money ./.
+mua/V bột/Item chiên/Item 30/Nu k/Money ./.
+mua/V đèn_bão/Item 150/Nu k/Money ./.
+đi/V chụp/Item hình/Item cưới/Item 2/Nu triệu/Money ./.
+mua/V rau/Item cải_xanh/Item 30/Nu k/Money ./.
+mua/V bánh_xèo/Item 50/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_trì/Item máy_lạnh/Item 300/Nu k/Money ./.
+mua/V đèn/Item chùm/Item 1/Nu triệu/Money ./.
+đi/V học/Item lớp/Item viết/Item văn/Item 300/Nu k/Money ./.
+mua/V áo_len/Item 400/Nu k/Money ./.
+mua/V đèn/Item trang_trí/Item phòng/Item ngủ/Item 200/Nu k/Money ./.
+đưa/Item con/Person đi/V học/Item đàn/Item piano/Item 300/Nu k/Money ./.
+thanh_toán/V tiền/Item bảo_trì/Item máy_giặt/Item 200/Nu k/Money ./.
+mua/V sách/Item lịch_sử/Item 150/Nu k/Money ./.
+mua/V vé/Item xem/V hài_kịch/Item 100/Nu k/Money ./.
+mua/V đồ_chơi/Item điện_tử/Item cho/Prep con/Person 500/Nu k/Money ./.
+mua/V hoa_quả/Item tươi/Adj 200/Nu k/Money ./.
+đi/V học/Item lớp/Item kỹ_năng/Item sống/Item 500/Nu k/Money ./.
+thanh_toán/V tiền/Item gửi/V xe/Item ô_tô/Item 500/Nu k/Money ./.
+mua/V áo_sơ_mi/Item 300/Nu k/Money ./.
+mua/V vé/Item tàu/Item đi/V du_lịch/Item 2/Nu triệu/Money ./.
+mua/V bột/Item đậu/Item xanh/Item 50/Nu k/Money ./.
+mua/V đèn_pin/Item 100/Nu k/Money ./.
+mua/V sách/Item tự_truyện/Item 200/Nu k/Money ./.
+đi/V tập_gym/Item với/Prep huấn_luyện_viên/Item riêng/Item 1/Nu triệu/Money ./.

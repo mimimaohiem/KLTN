@@ -1,0 +1,121 @@
+Món đồ,Phương thức thanh toán,Loại phương thức thanh toán,Nơi mua,Người thụ hưởng,Số tiền
+"dầu, bánh",chuyển_khoản,Thu,bách_hóa_xanh,Không rõ,0
+dầu,Tiền mặt,Chi,chợ,Không rõ,600000.0
+muối,Tiền mặt,Chi,N/A,Không rõ,0
+gạo,Tiền mặt,Chi,N/A,Không rõ,40.5
+gạo,Tiền mặt,Chi,N/A,Không rõ,0
+gạo,Tiền mặt,Chi,N/A,Không rõ,500.0
+Cà_phê,Tiền mặt,Khác,N/A,Không rõ,15000.0
+bánh_mì,Tiền mặt,Chi,N/A,Không rõ,0
+bánh_mì,Tiền mặt,Chi,N/A,Không rõ,500000.0
+cafe,Tiền mặt,Chi,N/A,Không rõ,0
+cafe,Tiền mặt,Khác,N/A,Không rõ,0
+cafe,Tiền mặt,Khác,N/A,Không rõ,500000.0
+cafe,Tiền mặt,Khác,N/A,Không rõ,500000.0
+bánh_mì,Tiền mặt,Chi,N/A,Không rõ,0
+N/A,Tiền mặt,Khác,N/A,Không rõ,0
+"bánh_mì, gạo",chuyển_khoản,Chi,quán_cafe,Không rõ,0
+sữa_đậu_nành,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_điện,Tiền mặt,Khác,N/A,Không rõ,0
+tiền_nước,Tiền mặt,Khác,N/A,Không rõ,0
+cá,Tiền mặt,Chi,N/A,Không rõ,0
+cà_phê,Tiền mặt,Chi,N/A,Không rõ,0
+gạo,Tiền mặt,Chi,N/A,Không rõ,0
+Cà_phê,Tiền mặt,Khác,N/A,Không rõ,0
+bánh_mì,Tiền mặt,Chi,N/A,Không rõ,0
+sữa_đậu_nành,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_điện,Tiền mặt,Khác,N/A,Không rõ,0
+tiền_nước,Tiền mặt,Khác,N/A,Không rõ,0
+đồ_dùng_vệ_sinh_cá_nhân,Tiền mặt,Chi,N/A,Không rõ,0
+N/A,chuyển_khoản,Chi,N/A,An,0
+N/A,Tiền mặt,Khác,quán_phở,Không rõ,0
+quà_sinh_nhật,Tiền mặt,Chi,N/A,bạn,0
+sách_giáo_khoa,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_học_phí,Tiền mặt,Khác,trường,Không rõ,0
+áo,Tiền mặt,Chi,N/A,Không rõ,0
+"xem_phim, vé",Tiền mặt,Khác,N/A,Không rõ,0
+hoa_quả,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_nhà_hàng,Tiền mặt,Khác,N/A,Không rõ,0
+dụng_cụ_thể_thao,Tiền mặt,Chi,N/A,Không rõ,0
+điện_thoại_di_động,Tiền mặt,Khác,N/A,Không rõ,0
+dầu_gội_đầu,Tiền mặt,Chi,N/A,Không rõ,0
+thức_ăn,Tiền mặt,Chi,N/A,chó,0
+vé_xe_buýt,Tiền mặt,Khác,N/A,Không rõ,0
+bánh_trung_thu,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_internet,Tiền mặt,Khác,N/A,Không rõ,0
+"hóa_đơn, tiền_gas",Tiền mặt,Chi,N/A,Không rõ,0
+N/A,Tiền mặt,Chi,N/A,Chi,0
+tủ_lạnh,Tiền mặt,Chi,N/A,Không rõ,0
+du_lịch,Tiền mặt,Khác,Đà_Nẵng,Không rõ,0
+tiền_thuê_nhà,Tiền mặt,Khác,N/A,Không rõ,0
+xe_máy,Tiền mặt,Chi,N/A,Không rõ,0
+quần_áo,Tiền mặt,Chi,N/A,Không rõ,0
+mỹ_phẩm,Tiền mặt,Chi,N/A,Không rõ,0
+giày,Tiền mặt,Chi,N/A,Không rõ,0
+"sắm, đồ_điện_tử",Tiền mặt,Chi,N/A,Không rõ,0
+mực_in,Tiền mặt,Chi,N/A,Không rõ,0
+taxi,Tiền mặt,Khác,N/A,Không rõ,0
+ăn_buffet,Tiền mặt,Khác,N/A,Không rõ,0
+giấy_A4,Tiền mặt,Chi,N/A,Không rõ,0
+viên_vitamin,Tiền mặt,Chi,N/A,Không rõ,0
+cá,Tiền mặt,Chi,N/A,Không rõ,0
+thẻ_điện_thoại,Tiền mặt,Chi,N/A,Không rõ,0
+bình_nóng_lạnh,Tiền mặt,Chi,N/A,Không rõ,0
+bơi,Tiền mặt,Khác,hồ_bơi,Không rõ,0
+ắc_quy_xe_máy,Tiền mặt,Chi,N/A,Không rõ,0
+rau_củ_quả,Tiền mặt,Chi,N/A,Không rõ,0
+máy_giặt,Tiền mặt,Chi,N/A,Không rõ,0
+khung_ảnh,Tiền mặt,Chi,N/A,Không rõ,0
+bia,Tiền mặt,Chi,cửa_hàng_tạp_hóa,Không rõ,0
+N/A,Tiền mặt,Khác,bệnh_viện,Không rõ,0
+tiền_học_kỹ_năng_sống,Tiền mặt,Khác,N/A,Không rõ,0
+đèn_led,Tiền mặt,Chi,N/A,Không rõ,0
+đồ_ăn_vặt,Tiền mặt,Chi,cửa_hàng_tiện_lợi,Không rõ,0
+cà_phê_đá,Tiền mặt,Chi,N/A,Không rõ,0
+sách_vở,Tiền mặt,Chi,N/A,con,0
+xe_đạp_điện,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_điện,Tiền mặt,Khác,N/A,Không rõ,0
+kính_mát,Tiền mặt,Chi,N/A,Không rõ,0
+bánh_pizza,Tiền mặt,Chi,N/A,Không rõ,0
+lãi,Tiền mặt,Chi,N/A,bạn_bè,0
+máy_lọc_nước,Tiền mặt,Chi,N/A,Không rõ,0
+kem_chống_nắng,Tiền mặt,Chi,N/A,Không rõ,0
+cắt_tóc,Tiền mặt,Khác,N/A,Không rõ,0
+sách_nấu_ăn,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_cước_taxi,Tiền mặt,Khác,N/A,Không rõ,0
+thảm_yoga,Tiền mặt,Chi,N/A,Không rõ,0
+bàn_là_hơi_nước,Tiền mặt,Chi,N/A,Không rõ,0
+bút_bi,Tiền mặt,Chi,N/A,Không rõ,0
+bình_giữ_nhiệt,Tiền mặt,Chi,N/A,Không rõ,0
+đồ_chơi,Tiền mặt,Chi,N/A,bé,0
+thực_phẩm,Tiền mặt,Chi,chợ,Không rõ,0
+vé_máy_bay,Tiền mặt,Chi,Hà_Nội,Không rõ,0
+nhà_hàng_hải_sản,Tiền mặt,Khác,N/A,Không rõ,0
+sạc_dự_phòng,Tiền mặt,Chi,N/A,Không rõ,0
+từ_thiện,Tiền mặt,Khác,N/A,Không rõ,0
+hoa,Tiền mặt,Chi,N/A,bạn,0
+mặt_nạ_dưỡng_da,Tiền mặt,Chi,N/A,Không rõ,0
+dụng_cụ_nấu_bếp,Tiền mặt,Chi,N/A,Không rõ,0
+đồ_dùng,Tiền mặt,Chi,N/A,thú_cưng,0
+tôm_hùm,Tiền mặt,Chi,chợ,Không rõ,0
+tiền_phòng_gym,Tiền mặt,Khác,N/A,Không rõ,0
+"vải, may, áo",Tiền mặt,Chi,N/A,Không rõ,0
+đĩa_nhạc,Tiền mặt,Chi,N/A,Không rõ,0
+giỏ_xách,Tiền mặt,Chi,N/A,Không rõ,0
+thẻ_game_online,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_điện_thoại,Tiền mặt,Khác,N/A,Không rõ,0
+hạt_giống_cây_trồng,Tiền mặt,Chi,N/A,Không rõ,0
+ổ_cứng_di_động,Tiền mặt,Chi,N/A,Không rõ,0
+ốp_điện_thoại,Tiền mặt,Chi,N/A,Không rõ,0
+"khám_sức_khỏe, định_kỳ",Tiền mặt,Khác,N/A,Không rõ,0
+"đồng_hồ_thông_minh, lễ, chùa, tiền_lễ",Tiền mặt,Chi,N/A,Không rõ,0
+"sách, tiếng",Tiền mặt,Chi,Anh,Không rõ,0
+tiền_học_thêm,Tiền mặt,Khác,N/A,con,0
+loa_Bluetooth,Tiền mặt,Chi,N/A,Không rõ,0
+quần_jean,Tiền mặt,Chi,N/A,Không rõ,0
+ăn_lẩu,Tiền mặt,Khác,nhà_hàng,Không rõ,0
+"sách_thiền, yoga",Tiền mặt,Chi,N/A,Không rõ,0
+thức_ăn,Tiền mặt,Chi,N/A,cá_cảnh,0
+gói_xem_phim_trực_tuyến,Tiền mặt,Chi,N/A,Không rõ,0
+tiền_hội_phí_câu_lạc_bộ,Tiền mặt,Khác,N/A,Không rõ,0
+dép,Tiền mặt,Chi,N/A,Không rõ,0

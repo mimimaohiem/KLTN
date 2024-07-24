@@ -86,14 +86,14 @@ def run(args = sys.argv[1:]):
             os.remove(args[1] + ".sDict")
         except Exception as e:
             print("\nERROR ==> ", e)
-            printHelp()
+            printHelp() 
     elif args[0].lower() == "tag":
         try:
             r = RDRPOSTagger4Vn()
             print("\n=> Read a Vietnamese POS tagging model from " + args[1])
-            r.constructSCRDRtreeFromRDRfile(args[1])
+            r.constructSCRDRtreeFromRDRfile("../Models/POS/Vietnamese.RDR")
             print("\n=> Read a Vietnamese lexicon from " + args[2])
-            DICT = readDictionary(args[2])
+            DICT = readDictionary("../Models/POS/Vietnamese.DICT")
             print("\n=> Perform Vietnamese POS tagging on " + args[3])
             r.tagRawVnCorpus(DICT, args[3])
         except Exception as e:

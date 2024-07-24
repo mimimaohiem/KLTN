@@ -1,0 +1,25 @@
+class Note(BaseModel):
+    note: str
+
+@app.get("/")
+def home():
+    return {"message": "Đây là home"}
+
+@app.post("/submit")
+def submit(note: Note):
+    logging.info(f"Received note: {note.note}")
+    
+    if not note.note:
+        raise HTTPException(status_code=400, detail="No note provided")
+    
+    output = process_text(note.note)
+    logging.info(f"Processed text: {output}")
+    
+    pos_tagged = pos_tag(output)  # Tạo một đối tượng POS Tagger
+    df = data_processing.table_data(pos_tagged)
+    
+    return df
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)

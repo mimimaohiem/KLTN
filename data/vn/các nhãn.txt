@@ -1,0 +1,21 @@
+Time, V, Item, Prep, Place,Nu, Money, Person, Adj, Animal, Preson,M, Method
+
+===> Building exception rules for tag Nu
+
+===> Building exception rules for tag Money
+
+===> Building exception rules for tag .
+
+===> Building exception rules for tag ,
+
+===> Building exception rules for tag Person
+
+===> Building exception rules for tag Adj
+
+===> Building exception rules for tag Animal
+
+===> Building exception rules for tag Preson
+
+===> Building exception rules for tag M
+
+===> Building exception rules for tag Method

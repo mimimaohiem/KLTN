@@ -1,0 +1,21 @@
+{
+    "chi": {
+      "thực phẩm": ["gạo", "rau", "củ quả", "thịt", "cá", "cà phê", "trái cây","sữa"],
+      "đồ dùng cá nhân": ["dầu gội đầu", "kem đánh răng", "sữa tắm","quần áo", "đồ gia dụng"],
+      "di chuyển": ["xe bus", "taxi", "vé tàu"],
+      "hóa đơn": ["gas", "tiền điện", "tiền nước"],
+      "giáo dục": ["học phí", "sách", "đồ dùng học tập"],
+      "du lịch": ["vé máy bay", "khách sạn", "tour du lịch"],
+      "thú cưng":["thức ăn cho chó"],
+      "khác": []
+    },
+    "thu": {
+      "lương": ["lương", "thưởng","nhận lương","nhận"],
+      "quà tặng": ["quà"],
+      "đầu tư": ["cổ phiếu", "bất động sản"],
+      "cho thuê": ["nhà", "xe"],
+      "tiết kiệm": ["tiền lãi"],
+      "khoản thu khác": ["bán hàng"]
+    }
+  }
+  
